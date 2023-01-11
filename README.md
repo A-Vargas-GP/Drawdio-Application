@@ -58,7 +58,8 @@ As determined based on our group & testing through a needs assessment survey, ou
 * The hamburger menu was switched to a sidebar
     * Fixes a bug where the animation were not having the color and size options appear correctly in screen
 * A color palette was introduced
-* New logo: design with the music notes floating above the text to a more rain-cloud-like look
+* New logo
+    * Design with the music notes floating above the text to a more rain-cloud-like look
 
 ## Future Functionality
 * Right Side Nav Bar
