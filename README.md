@@ -72,7 +72,7 @@ As determined based on our group & testing through a needs assessment survey, ou
     * Three options for a user to select from through box buttons
 
 ## Project Website
-https://a-varg.itch.io/drawdio
+To test the Drawdio application, you can find a playable build at the following website: [Drawdio](https://a-varg.itch.io/drawdio)
 
 ## Contributors
 * Faith Christian
