@@ -396,6 +396,7 @@
 "Assets/extOSC/Examples/12) Match Pattern/Scripts/MatchPatternExample.cs"
 "Assets/extOSC/Examples/13) Marshalling/Scripts/MarshallingExample.cs"
 "Assets/Scripts/audio.cs"
+"Assets/Scripts/ChangeBackground.cs"
 "Assets/Scripts/DrawingProgramA/DrawingScript.cs"
 "Assets/Scripts/DrawingProgramA/ShowColor.cs"
 "Assets/Scripts/DrawingProgramB/brushScript.cs"
