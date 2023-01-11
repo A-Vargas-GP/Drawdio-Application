@@ -1,25 +1,30 @@
-# Drawdio-Application ✏️
+# Drawdio ✏️
 
 ## Table of Contents
+- [What Is Drawdio?](#drawdio)
 - [Project Intent](#project-intent)
 - [Project Description](#project-description)
 - [Current Function Description](#current-functionality)
 - [Previous Function Description](#previous-functionality)
 - [Future Functionality Description](#future-functionality)
 - [Current Prototype](#project-website)
+- [Applications Used](#applications-used)
 - [Contributors](#contributors)
+
+## Drawdio
+Drawdio is a mobile drawing application where users build visual & sonic environments by selecting a background, drawing & placing stickers
+
+Each background, sticker, and brush stroke create audio that work together to build a layered musical composition.
 
 ## Project Intent
 Drawdio should generate a line based on mouse location. The app should be accessible to newcomers to the digital art and music space. 
-
-We will require the Unity coding space as well as the Procreate and Max and/or Logic applications respectively. 
 
 The final build should be accessible on the web. Overall, this application is playable on desktops and mobile devices.
 
 ## Project Description
 Fusing the benefits of art and interactive electronic music therapies, Drawdio aims to improve the mood of college students through self expression, playful engagement, and creative empowerment.
 
-We plan to deliver a product that is accessible, engaging, and appealing to create a calmer and more creative campus. Drawdio needs to be designed for beginners.Drawdio should include relaxing musical compositions. The important features were the color palettes, brush options, and undo and redo buttons. We need to welcome and build users’ confidence around drawing.
+We plan to deliver a product that is accessible, engaging, and appealing to create a calmer and more creative campus. Drawdio needs to be designed for beginners. Drawdio should include relaxing musical compositions. The important features were the color palettes, brush options, and undo and redo buttons. We need to welcome and build users’ confidence around drawing.
 
 As determined based on our group & testing through a needs assessment survey, our users are primarily college students using app for relaxation. Users should find Drawdio to be a relaxing, intuitive, & accessible application. The ideal environment for users include their dorms, in-between classes, and with friends.
 
@@ -73,6 +78,11 @@ As determined based on our group & testing through a needs assessment survey, ou
 
 ## Project Website
 To test the Drawdio application, you can find a playable build at the following website: [Drawdio](https://a-varg.itch.io/drawdio)
+
+## Applications Used
+* App developed in Unity
+* Music created in Logic Pro
+* Stickers and art created in Procreate
 
 ## Contributors
 * Faith Christian
