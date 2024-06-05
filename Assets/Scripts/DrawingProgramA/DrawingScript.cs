@@ -83,13 +83,13 @@ public class DrawingScript : MonoBehaviour
     {
         if (!stopDrawing)
         {
-            //Mouse is held down
+            //Mouse is pressed - happens once
             if (Input.GetKeyDown(KeyCode.Mouse0) && StickerMove.stickerDrag != true)
             {
                 Brush();
             }
 
-            //Mouse is pressed
+            //Mouse is held down
             if (Input.GetKey(KeyCode.Mouse0) && StickerMove.stickerDrag != true)
             {
                 Vector2 currMouse = Camera.main.ScreenToWorldPoint(Input.mousePosition);
