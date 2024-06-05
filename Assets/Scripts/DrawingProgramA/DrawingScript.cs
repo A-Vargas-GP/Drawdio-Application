@@ -221,7 +221,11 @@ public class DrawingScript : MonoBehaviour
         if (currBrushes != null)
         {
             int lastIndex = currBrushes.Length - 1;
-            Destroy(currBrushes[lastIndex]);
+
+            if (lastIndex > 0)
+            {
+                Destroy(currBrushes[lastIndex]);
+            }
         }
     }
 
